@@ -1,0 +1,4 @@
+firstapp
+========
+
+rails training
